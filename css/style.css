@@ -1,0 +1,73 @@
+
+body {
+
+    background-color: white;
+    color: #5599EE
+
+}
+
+#haut {
+
+    margin: 2px 2px 2px 2px ;
+    height:6%
+
+}
+
+#gauche {
+
+    float:left;
+    width:18%; 
+    background-color:white; 
+    height:100%;
+
+}
+
+#droite{
+
+    float:left;
+    width:80%;
+
+}
+
+#bas{
+
+    margin : 10px 2px 2px 2px;
+    clear:left;
+    background-color: #77AADD;
+    color:white;
+    height:88%
+
+}
+
+label.titre {
+    width : 180px ;  
+    clear:left; 
+    float:left; 
+} 
+.titre {
+    width : 180px ;  
+/*    clear:left; */
+    float:left; 
+}
+.zone { 
+    width : 30car ; float : left; color:#5599EE 
+}
+
+span#alerte{
+
+    color:red;
+
+}
+
+span#succes{
+
+    color:green;
+}
+
+td {
+    color:white;
+    padding: 0!important;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #069;
+}
